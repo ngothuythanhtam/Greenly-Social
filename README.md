@@ -46,5 +46,13 @@
 
 ---
 
-## 📂 Cấu trúc thư mục chính
+## 🚀 Hướng dẫn chạy hệ thống
 
+### 💻 Backend (API + Socket.IO)
+
+```bash
+# Bước vào thư mục backend
+cd backend
+
+# Cài đặt thư viện Node.js
+npm install
